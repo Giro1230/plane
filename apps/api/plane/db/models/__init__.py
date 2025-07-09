@@ -83,3 +83,5 @@ from .label import Label
 from .device import Device, DeviceSession
 
 from .sticky import Sticky
+
+from .git import GitRepository, GitCommit, GitBranch, GitSyncHistory
